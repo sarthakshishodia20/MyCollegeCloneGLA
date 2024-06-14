@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container0{
+    height: 133px;
+    background-color: black;
+    width: 100%;
+    display: flex;
+}
+.container0 .navbar1 img{
+    /* padding-left: 30px; */
+    
+    /* padding-top: 35px; */
+    height: auto;
+
+    width: 134px;
+}
+.conatiner .navbar1 img .naac{
+    height: 58px;
+    width: 145px;
+}
+.div1 nav{
+    width: 100%;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    background-color: rebeccapurple;
+}
+ul li{
+    list-style: none;
+    color:white;
+}
+ul li a{
+    text-decoration: none;
+    color:white;
+}
